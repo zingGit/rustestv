@@ -1,0 +1,76 @@
+
+baozha.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wc_wild_sweep_00
+  rotate: false
+  xy: 1, 471
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+wc_wild_sweep_01
+  rotate: false
+  xy: 248, 706
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+wc_wild_sweep_02
+  rotate: false
+  xy: 1, 236
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+wc_wild_sweep_03
+  rotate: false
+  xy: 248, 471
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+wc_wild_sweep_04
+  rotate: false
+  xy: 495, 706
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+wc_wild_sweep_05
+  rotate: false
+  xy: 1, 1
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+wc_wild_sweep_06
+  rotate: false
+  xy: 248, 236
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+wc_wild_sweep_07
+  rotate: false
+  xy: 495, 471
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+wc_wild_sweep_08
+  rotate: false
+  xy: 742, 706
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+wc_wild_sweep_09
+  rotate: false
+  xy: 1, 706
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+waifaguang.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_infoglow_a_add
+  rotate: false
+  xy: 1322, 572
+  size: 540, 360
+  orig: 540, 360
+  offset: 0, 0
+  index: -1
+bg_logo_vfx_a_add
+  rotate: false
+  xy: 1, 1
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+bg_logo_vfx_b_add
+  rotate: false
+  xy: 1322, 329
+  size: 46, 132
+  orig: 46, 132
+  offset: 0, 0
+  index: -1
+bg_logo_vfx_c_add
+  rotate: false
+  xy: 665, 158
+  size: 48, 132
+  orig: 48, 132
+  offset: 0, 0
+  index: -1
+fs_vfx_a_01_add
+  rotate: false
+  xy: 327, 131
+  size: 337, 801
+  orig: 337, 801
+  offset: 0, 0
+  index: -1
+fs_vfx_a_02_add
+  rotate: false
+  xy: 665, 291
+  size: 338, 641
+  orig: 338, 641
+  offset: 0, 0
+  index: -1
+ua_vfx_a_01_add
+  rotate: false
+  xy: 1, 107
+  size: 325, 825
+  orig: 325, 825
+  offset: 0, 0
+  index: -1
+ua_vfx_a_02_add
+  rotate: false
+  xy: 1004, 293
+  size: 317, 639
+  orig: 317, 639
+  offset: 0, 0
+  index: -1
+ua_vfx_a_03_add
+  rotate: true
+  xy: 1322, 462
+  size: 109, 592
+  orig: 109, 592
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,82 @@
+
+faguang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_vfx_l_screen_01
+  rotate: true
+  xy: 1, 1155
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+bw_vfx_l_screen_02
+  rotate: true
+  xy: 1, 614
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+bw_vfx_l_screen_03
+  rotate: true
+  xy: 1, 73
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+lizi/bg_particle_a_add_00
+  rotate: false
+  xy: 1172, 1131
+  size: 756, 564
+  orig: 756, 564
+  offset: 0, 0
+  index: -1
+lizi/bg_particle_a_add_01
+  rotate: false
+  xy: 1172, 566
+  size: 756, 564
+  orig: 756, 564
+  offset: 0, 0
+  index: -1
+lizi/bg_particle_a_add_02
+  rotate: false
+  xy: 1172, 1
+  size: 756, 564
+  orig: 756, 564
+  offset: 0, 0
+  index: -1
+
+faguang2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/bg_particle_a_add_03
+  rotate: false
+  xy: 1, 1131
+  size: 756, 564
+  orig: 756, 564
+  offset: 0, 0
+  index: -1
+lizi/bg_particle_a_add_04
+  rotate: false
+  xy: 1, 566
+  size: 756, 564
+  orig: 756, 564
+  offset: 0, 0
+  index: -1
+lizi/bg_particle_a_add_05
+  rotate: false
+  xy: 758, 1131
+  size: 756, 564
+  orig: 756, 564
+  offset: 0, 0
+  index: -1
+lizi/bg_particle_a_add_06
+  rotate: false
+  xy: 1, 1
+  size: 756, 564
+  orig: 756, 564
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,208 @@
+
+xiaojiang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ib_vfx_a_screen
+  rotate: false
+  xy: 1, 1266
+  size: 468, 413
+  orig: 468, 413
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_00
+  rotate: false
+  xy: 1, 1680
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_01
+  rotate: false
+  xy: 622, 1680
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_02
+  rotate: false
+  xy: 1243, 1680
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_03
+  rotate: true
+  xy: 1, 622
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_04
+  rotate: true
+  xy: 1, 1
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_05
+  rotate: true
+  xy: 306, 622
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_06
+  rotate: true
+  xy: 306, 1
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_07
+  rotate: false
+  xy: 619, 1375
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_08
+  rotate: false
+  xy: 1240, 1375
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_09
+  rotate: true
+  xy: 611, 622
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_10
+  rotate: true
+  xy: 611, 1
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_11
+  rotate: false
+  xy: 916, 1070
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_12
+  rotate: true
+  xy: 1537, 754
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_13
+  rotate: false
+  xy: 916, 765
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_14
+  rotate: false
+  xy: 916, 460
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_15
+  rotate: true
+  xy: 1537, 133
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_16
+  rotate: false
+  xy: 916, 155
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_c_add
+  rotate: true
+  xy: 470, 1266
+  size: 413, 73
+  orig: 413, 73
+  offset: 0, 0
+  index: -1
+ib_vfx_d_add_00
+  rotate: true
+  xy: 1941, 1243
+  size: 366, 76
+  orig: 366, 76
+  offset: 0, 0
+  index: -1
+ib_vfx_d_add_01
+  rotate: true
+  xy: 1864, 1584
+  size: 400, 76
+  orig: 400, 76
+  offset: 0, 0
+  index: -1
+ib_vfx_d_add_02
+  rotate: true
+  xy: 1941, 1610
+  size: 374, 76
+  orig: 374, 76
+  offset: 0, 0
+  index: -1
+ib_vfx_d_add_03
+  rotate: true
+  xy: 544, 1271
+  size: 408, 74
+  orig: 408, 74
+  offset: 0, 0
+  index: -1
+
+xiaojiang2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ib_vfx_b_add_17
+  rotate: false
+  xy: 1, 611
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_18
+  rotate: false
+  xy: 1, 306
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_19
+  rotate: false
+  xy: 622, 611
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_20
+  rotate: false
+  xy: 1, 1
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1
+ib_vfx_b_add_21
+  rotate: false
+  xy: 622, 306
+  size: 620, 304
+  orig: 620, 304
+  offset: 0, 0
+  index: -1

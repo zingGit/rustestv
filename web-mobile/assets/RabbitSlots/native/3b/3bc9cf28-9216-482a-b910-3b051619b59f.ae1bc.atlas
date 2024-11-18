@@ -1,0 +1,236 @@
+
+zhongjiangdikuang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ps_vfx_b_add_00
+  rotate: false
+  xy: 911, 1129
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_01
+  rotate: false
+  xy: 1366, 1586
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_02
+  rotate: false
+  xy: 456, 215
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_03
+  rotate: false
+  xy: 911, 697
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_04
+  rotate: false
+  xy: 911, 265
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_05
+  rotate: false
+  xy: 1366, 1154
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_06
+  rotate: false
+  xy: 1353, 722
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_07
+  rotate: false
+  xy: 1353, 290
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_c_add_00
+  rotate: false
+  xy: 1, 1561
+  size: 454, 456
+  orig: 454, 456
+  offset: 0, 0
+  index: -1
+ps_vfx_c_add_01
+  rotate: false
+  xy: 1, 1104
+  size: 454, 456
+  orig: 454, 456
+  offset: 0, 0
+  index: -1
+ps_vfx_c_add_02
+  rotate: false
+  xy: 456, 1561
+  size: 454, 456
+  orig: 454, 456
+  offset: 0, 0
+  index: -1
+ps_vfx_c_add_03
+  rotate: false
+  xy: 1, 647
+  size: 454, 456
+  orig: 454, 456
+  offset: 0, 0
+  index: -1
+ps_vfx_c_add_04
+  rotate: false
+  xy: 456, 1104
+  size: 454, 456
+  orig: 454, 456
+  offset: 0, 0
+  index: -1
+ps_vfx_c_add_05
+  rotate: false
+  xy: 911, 1561
+  size: 454, 456
+  orig: 454, 456
+  offset: 0, 0
+  index: -1
+ps_vfx_c_add_06
+  rotate: false
+  xy: 1, 190
+  size: 454, 456
+  orig: 454, 456
+  offset: 0, 0
+  index: -1
+ps_vfx_c_add_07
+  rotate: false
+  xy: 456, 647
+  size: 454, 456
+  orig: 454, 456
+  offset: 0, 0
+  index: -1
+ps_vfx_d_add
+  rotate: true
+  xy: 1165, 1
+  size: 263, 249
+  orig: 263, 249
+  offset: 0, 0
+  index: -1
+ps_vfx_f_add
+  rotate: false
+  xy: 898, 10
+  size: 266, 254
+  orig: 266, 254
+  offset: 0, 0
+  index: -1
+
+zhongjiangdikuang2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ps_vfx_b_add_08
+  rotate: false
+  xy: 1, 1297
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_09
+  rotate: false
+  xy: 1, 865
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_10
+  rotate: false
+  xy: 443, 1297
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_11
+  rotate: false
+  xy: 1, 433
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_12
+  rotate: false
+  xy: 443, 865
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_13
+  rotate: false
+  xy: 885, 1297
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_14
+  rotate: false
+  xy: 1, 1
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_15
+  rotate: false
+  xy: 443, 433
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_16
+  rotate: false
+  xy: 885, 865
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_17
+  rotate: false
+  xy: 1327, 1297
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_18
+  rotate: false
+  xy: 443, 1
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_19
+  rotate: false
+  xy: 885, 433
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_20
+  rotate: false
+  xy: 1327, 865
+  size: 441, 431
+  orig: 441, 431
+  offset: 0, 0
+  index: -1
+ps_vfx_e_add
+  rotate: false
+  xy: 885, 83
+  size: 382, 349
+  orig: 382, 349
+  offset: 0, 0
+  index: -1

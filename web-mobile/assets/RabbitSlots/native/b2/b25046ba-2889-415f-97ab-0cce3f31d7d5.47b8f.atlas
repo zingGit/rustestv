@@ -1,0 +1,27 @@
+
+guang2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_vfx_c_screen
+  rotate: true
+  xy: 1365, 54
+  size: 713, 507
+  orig: 713, 507
+  offset: 0, 0
+  index: -1
+fs_vfx_e_add
+  rotate: false
+  xy: 1, 1
+  size: 756, 766
+  orig: 756, 766
+  offset: 0, 0
+  index: -1
+fs_vfx_f_add
+  rotate: false
+  xy: 758, 161
+  size: 606, 606
+  orig: 606, 606
+  offset: 0, 0
+  index: -1

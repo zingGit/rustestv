@@ -1,0 +1,228 @@
+
+megawin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw
+  rotate: false
+  xy: 1174, 14
+  size: 621, 169
+  orig: 623, 171
+  offset: 1, 1
+  index: -1
+bw_a
+  rotate: false
+  xy: 1174, 185
+  size: 759, 686
+  orig: 761, 688
+  offset: 1, 1
+  index: -1
+bw_vfx_b_add
+  rotate: false
+  xy: 2, 707
+  size: 935, 1336
+  orig: 935, 1336
+  offset: 0, 0
+  index: -1
+bw_vfx_g_add_01
+  rotate: true
+  xy: 2, 165
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+bw_vfx_l_screen_01
+  rotate: false
+  xy: 939, 873
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+bw_vfx_l_screen_02
+  rotate: false
+  xy: 1481, 873
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 2, 2
+  size: 161, 161
+  orig: 161, 161
+  offset: 0, 0
+  index: -1
+
+megawin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_coin
+  rotate: true
+  xy: 1828, 490
+  size: 756, 204
+  orig: 758, 206
+  offset: 1, 1
+  index: -1
+bw_vfx_c_add
+  rotate: false
+  xy: 572, 425
+  size: 752, 627
+  orig: 754, 629
+  offset: 1, 1
+  index: -1
+bw_vfx_d_screen_01
+  rotate: false
+  xy: 572, 2
+  size: 758, 421
+  orig: 760, 423
+  offset: 1, 1
+  index: -1
+bw_vfx_h_screen_01
+  rotate: false
+  xy: 544, 1054
+  size: 540, 950
+  orig: 540, 950
+  offset: 0, 0
+  index: -1
+bw_vfx_h_screen_02
+  rotate: false
+  xy: 1086, 1054
+  size: 540, 950
+  orig: 540, 950
+  offset: 0, 0
+  index: -1
+bw_vfx_l_screen_03
+  rotate: false
+  xy: 2, 834
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+hongguang
+  rotate: false
+  xy: 1326, 552
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ib_mw_vfx_e_add
+  rotate: true
+  xy: 1628, 1248
+  size: 756, 406
+  orig: 756, 406
+  offset: 0, 0
+  index: -1
+mtp_vfx_b_screen
+  rotate: true
+  xy: 2, 76
+  size: 756, 568
+  orig: 758, 570
+  offset: 1, 1
+  index: -1
+xulie/bw_vfx_f_add_00023
+  rotate: false
+  xy: 1332, 60
+  size: 432, 490
+  orig: 432, 560
+  offset: 0, 35
+  index: -1
+
+megawin3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_frame_01
+  rotate: false
+  xy: 721, 1694
+  size: 756, 204
+  orig: 758, 206
+  offset: 1, 1
+  index: -1
+bw_frame_02
+  rotate: true
+  xy: 355, 496
+  size: 756, 190
+  orig: 758, 192
+  offset: 1, 1
+  index: -1
+bw_rabbit
+  rotate: false
+  xy: 2, 1254
+  size: 717, 644
+  orig: 719, 646
+  offset: 1, 1
+  index: -1
+bw_vfx_d_screen_02
+  rotate: true
+  xy: 2, 494
+  size: 758, 351
+  orig: 760, 353
+  offset: 1, 1
+  index: -1
+xulie/bw_vfx_f_add_00020
+  rotate: false
+  xy: 1213, 1204
+  size: 432, 488
+  orig: 432, 560
+  offset: 0, 36
+  index: -1
+xulie/bw_vfx_f_add_00021
+  rotate: false
+  xy: 547, 272
+  size: 432, 488
+  orig: 432, 560
+  offset: 0, 36
+  index: -1
+xulie/bw_vfx_f_add_00022
+  rotate: false
+  xy: 981, 222
+  size: 432, 488
+  orig: 432, 560
+  offset: 0, 36
+  index: -1
+xulie/bw_vfx_f_add_00024
+  rotate: true
+  xy: 721, 1260
+  size: 432, 490
+  orig: 432, 560
+  offset: 0, 35
+  index: -1
+xulie/bw_vfx_f_add_00025
+  rotate: false
+  xy: 2, 2
+  size: 432, 490
+  orig: 432, 560
+  offset: 0, 35
+  index: -1
+xulie/bw_vfx_f_add_00026
+  rotate: false
+  xy: 547, 762
+  size: 432, 490
+  orig: 432, 560
+  offset: 0, 35
+  index: -1
+xulie/bw_vfx_f_add_00027
+  rotate: false
+  xy: 981, 712
+  size: 432, 490
+  orig: 432, 560
+  offset: 0, 35
+  index: -1
+xulie/bw_vfx_f_add_00028
+  rotate: false
+  xy: 1415, 712
+  size: 432, 490
+  orig: 432, 560
+  offset: 0, 35
+  index: -1
+xulie/bw_vfx_f_add_00029
+  rotate: false
+  xy: 1415, 220
+  size: 432, 490
+  orig: 432, 560
+  offset: 0, 35
+  index: -1

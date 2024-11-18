@@ -1,0 +1,27 @@
+
+jinchao.png
+size: 478,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ps_vfx_a_cash_add
+  rotate: false
+  xy: 1, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+s_cash_note
+  rotate: true
+  xy: 352, 62
+  size: 146, 72
+  orig: 150, 77
+  offset: 3, 4
+  index: -1
+s_cash_off
+  rotate: true
+  xy: 352, 209
+  size: 142, 125
+  orig: 144, 127
+  offset: 1, 1
+  index: -1
